@@ -1,3 +1,3 @@
-# sentimental-analysis-on-stocks![Sentiment_Slide2](https://user-images.githubusercontent.com/98972323/201011113-bb8d1b8b-bd75-4408-b5c0-432973702f01.PNG)
-![Sentiment_Slide3](https://user-images.githubusercontent.com/98972323/201011133-c214ded6-8b51-4860-9f4e-339ac4f80dc3.PNG)
+# sentimental-analysis-on-stocks
 
+![Sentiment_Slide1](https://user-images.githubusercontent.com/98972323/201011357-5460ba69-c49a-48d9-8418-f81204f8fbd1.PNG)
